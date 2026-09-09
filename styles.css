@@ -145,7 +145,8 @@ h1 {
     padding: 20px 28px 35px;
     display: flex;
     grid-column-start: 1;
-    grid-column-end: 3;
+    grid-column-end: 4;
+    border-bottom: 1px solid #d9e0e6;
     justify-content: space-between;
 }
 
